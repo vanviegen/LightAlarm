@@ -11,5 +11,5 @@ LightAlarm is an Android app that does exactly this:
 
 That's it. There are no settings, this is just meant for me (and perhaps for people with similar preferences).
 
-Unfortunately, feature #1 requires the use of deprecated Android APIs (dating back to the time that API calls where commands rather than mere suggestions to the operating system). Therefore, the app is not allowed in the Play Store. Sideloading to the rescue!
+Unfortunately, feature #1 requires the use of deprecated Android APIs (dating back to the time that API calls were commands rather than mere suggestions to the operating system). Therefore, the app is not allowed in the Play Store. [Sideloading](https://github.com/vanviegen/LightAlarm/releases/download/dev/app-release-unsigned.apk) to the rescue!
 
